@@ -1,0 +1,2 @@
+blink
+-DCATKIN_DEVEL_PREFIX=/home/farid/eurobot/devel -DCMAKE_INSTALL_PREFIX=/home/farid/eurobot/install -G Unix Makefiles
